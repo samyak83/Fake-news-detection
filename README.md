@@ -1,3 +1,3 @@
 # Fake-news-detection
 ==========================
-# Ongoing project - OPEN
+# Ongoing project - Open
